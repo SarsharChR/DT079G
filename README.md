@@ -3,6 +3,7 @@ DT079G – Programmeringsmetodik
 Sarshar Chavoshi Rad – Civilingenjörsprogrammet i datateknik, Mittuniversitetet
 
 Laborationer
+
 Labb 1:
 Klassen int_buffer för en dynamisk array av heltal, klassen int_sorted som håller talen sorterade med merge sort, samt en jämförelse av hastigheten mellan merge sort, selection sort och std::sort.
 
