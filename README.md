@@ -18,4 +18,3 @@ Klasserna Email och Mailbox, där e-post kan sorteras efter avsändare, datum el
 
 Labb 5:
 Träning i standardbibliotekets algoritmer och funktionsobjekt med klassen Human. Bland annat används std::for_each, std::find_if, std::adjacent_find, std::equal, std::search, std::accumulate, std::transform och std::sort, tillsammans med egna funktionsobjekt.
-م
